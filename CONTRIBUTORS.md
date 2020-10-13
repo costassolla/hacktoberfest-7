@@ -235,6 +235,11 @@ to explore life. Also, Python and Django Developer
 - Bio: Student - Otaku - Geek
 - GitHub: [Switch](https://github.com/switchgirl95)
 
+#### Name: [Charlye](https://github.com/costassolla)
+- Place: Vigo, Galicia, Spain
+- Bio: Programmer and Drummer
+- GitHub: [costassolla](https://github.com/costassolla)
+
 #### Name: [Andrea Stringham](https://github.com/astringham)
 - Place: Phoenix, AZ USA
 - Bio: Coffee addict, dog person, developer.
